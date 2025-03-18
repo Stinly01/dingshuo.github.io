@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "https://s21.ax1x.com/2025/03/17/pEdYss0.jpg"
   name             : "丁硕"
-  pronouns         : "男"# example: "she/her"  
+  pronouns         : "he"# example: "she/her"  
   bio              : "一个纯小白"
   location         : "地球"
   employer         : "大专"
@@ -33,11 +33,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
