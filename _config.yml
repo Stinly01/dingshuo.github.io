@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default"
+locale                   :"en-US"
+site_theme               :"default"
 title                    : "丁硕的网站"
 title_separator          : "-"
 name                     : &name "丁硕"
