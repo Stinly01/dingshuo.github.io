@@ -13,7 +13,7 @@ title                    : "丁硕的网页"
 title_separator          : "-"
 name                     : &name "丁硕"
 description              : &description "一个纯粹的小白"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://github.com/Stinly01/dingshuo.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
