@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-<a href="www.yhdm006.com>樱花动漫</a>
+<a href="www.yhdm006.com">樱花动漫</a>
